@@ -1,1 +1,1 @@
-no pc
+sno pc
